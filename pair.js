@@ -1,4 +1,4 @@
-const { malvinid } = require('./id'); 
+const { humbahid } = require('./id'); 
 const express = require('express');
 const fs = require('fs');
 let router = express.Router();
@@ -6,7 +6,7 @@ const pino = require("pino");
 const { Storage } = require("megajs");
 
 const {
-    default: Malvin_Tech,
+    default: bleurainz_tech,
     useMultiFileAuthState,
     delay,
     makeCacheableSignalKeyStore,
@@ -126,7 +126,7 @@ router.get('/', async (req, res) => {
 
 🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029Vb6EJfCHLHQQGd2KGL1P) 
 
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [Malvin King GitHub Repo](https://github.com/kingmalvn/)  
+⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [humbah GitHub Repo](https://github.com/humbah2005/)  
 
 🚀 _Thanks for choosing humbah-md — Let the automation begin!_ ✨`;
 
