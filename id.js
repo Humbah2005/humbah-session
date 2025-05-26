@@ -1,5 +1,5 @@
-function malvinid(num = 4) {
-  let result = "";
+function humbaid(num = 4) {
+  let result = "humba~";
   let characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
   var characters9 = characters.length;
   for (var i = 2; i < num; i++) {
@@ -7,4 +7,4 @@ function malvinid(num = 4) {
   }
   return result;
 }
-module.exports = {malvinid};
+module.exports = {hunbaid};
