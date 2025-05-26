@@ -4,7 +4,7 @@
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/wdn1oa.jpg",
     "repository": "https://github.com/humbah2005/humbah-session",
-    "keywords": ["Malvin-Tech"],
+    "keywords": ["bleurainz-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
