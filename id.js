@@ -1,4 +1,4 @@
-function humbaid(num = 4) {
+function humbaid(num = 5`) {
   let result = "humba~";
   let characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
   var characters9 = characters.length;
@@ -7,4 +7,4 @@ function humbaid(num = 4) {
   }
   return result;
 }
-module.exports = {hunbaid};
+module.exports = {humbaid};
